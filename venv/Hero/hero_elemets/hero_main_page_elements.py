@@ -1,3 +1,4 @@
+from Hero.herolo_browser_config.chrome_config import driver
 
 class HeroMainPageElements:
     """
